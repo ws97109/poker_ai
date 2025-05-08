@@ -1,0 +1,18 @@
+Architecture model: 
+Number epoch: 9900
+Epsilon: 0.09991257268528593
+Model: "sequential"
+_________________________________________________________________
+ Layer (type)                Output Shape              Param #   
+=================================================================
+ dense (Dense)               (None, 32)                256       
+                                                                 
+ dense_1 (Dense)             (None, 32)                1056      
+                                                                 
+ dense_2 (Dense)             (None, 41)                1353      
+                                                                 
+=================================================================
+Total params: 2,665
+Trainable params: 2,665
+Non-trainable params: 0
+_________________________________________________________________

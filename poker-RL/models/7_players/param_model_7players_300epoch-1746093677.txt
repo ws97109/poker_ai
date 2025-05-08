@@ -1,0 +1,20 @@
+Seven-Player Poker Training
+Number epoch: 300
+Epsilon: 0.7742208166864119
+Current win rate: 13.95%
+Recent win rate: 15.00%
+Model: "sequential"
+_________________________________________________________________
+ Layer (type)                Output Shape              Param #   
+=================================================================
+ dense (Dense)               (None, 64)                512       
+                                                                 
+ dense_1 (Dense)             (None, 64)                4160      
+                                                                 
+ dense_2 (Dense)             (None, 41)                2665      
+                                                                 
+=================================================================
+Total params: 7337 (28.66 KB)
+Trainable params: 7337 (28.66 KB)
+Non-trainable params: 0 (0.00 Byte)
+_________________________________________________________________
