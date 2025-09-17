@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "rewrites": [
+    {
+      "source": "/",
+      "destination": "/poker game/index.html"
+    },
+    {
+      "source": "/(.*)",
+      "destination": "/poker game/$1"
+    }
+  ]
+}
