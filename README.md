@@ -1,8 +1,10 @@
 # Poker AI 專案
 
 這是一個使用深度強化學習訓練的撲克牌AI專案，包含了AI模型訓練和網頁遊戲介面。
+
 可以透過以下網站使用
-poker-ai-one.vercel.app
+
+[poker-ai-one.vercel.app](https://poker-ai-one.vercel.app/)
 ## 專案結構
 
 ```
